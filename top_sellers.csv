@@ -1,0 +1,17 @@
+index,year,book_name,author,gross_sales,sales_rank,publisher,units_sold
+0,1975,Beowulf,"Unknown, Seamus Heaney",34160,1,HarperCollins Publishers,7000
+1,1987,Batman: Year One,Frank Miller,12437.5,2,HarperCollins Publishers,6250
+2,2015,Go Set a Watchman,Harper Lee,47795,3,"Amazon Digital Services, Inc.",5500
+3,2008,When You Are Engulfed in Flames,David Sedaris,41250,3,Hachette Book Group,5500
+4,2011,Daughter of Smoke & Bone,Laini Taylor,37952.5,4,Penguin Group (USA) LLC,4750
+5,2015,Red Queen,Victoria Aveyard,19960,5,"Amazon Digital Services, Inc.",4000
+6,2011,The Power of Habit,Charles Duhigg,27491.67,6,HarperCollins Publishers,3933
+7,1994,Midnight in the Garden of Good and Evil,John Berendt,26182,8,Hachette Book Group,3800
+8,2012,Hopeless,Colleen Hoover,26093.67,9,HarperCollins Publishers,3733
+9,1905,A Little Princess,"Frances Hodgson Burnett, Nancy Bond",23792.34,10,Random House LLC,3666
+10,2004,The Truth About Forever,Sarah Dessen,17964,11,"Amazon Digital Services, Inc.",3600
+11,1954,The horse and his boy,C.S. Lewis,21564,11,Penguin Group (USA) LLC,3600
+12,2010,Last Sacrifice,Richelle Mead,3431.34,13,"Amazon Digital Services, Inc.",3466
+13,1935,Little House on the Prairie,"Laura Ingalls Wilder, Garth Williams",6897.34,13,HarperCollins Publishers,3466
+14,1922,The Velveteen Rabbit,"Margery Williams Bianco, William Nicholson",21797.82,15,Random House LLC,3333
+15,1974,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,16297.34,16,"Amazon Digital Services, Inc.",3266
