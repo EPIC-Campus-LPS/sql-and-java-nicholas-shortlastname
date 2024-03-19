@@ -49,10 +49,9 @@ public class MySQLAccess {
      * @return The contents of the cell at index in column
      * @throws SQLException if a MySQl error occurs
      */
-    public String getCellIndex(String table, String column, int index) throws SQLException { //select
+    public String doesColumnExist(String table, String column) throws SQLException { //select
         ResultSet resultSet = statement.executeQuery("select " + column + " from " + table + ";");
-        System.out.println(resultSet);
-        return resultSet.getString(index);
+        return resultSet.getString(1);
     }
 
     /**

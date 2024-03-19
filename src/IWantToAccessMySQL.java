@@ -11,7 +11,7 @@ public class IWantToAccessMySQL {
 
         System.out.println(mySQLAccess.getColumnAmount(table));
         System.out.println(mySQLAccess.getRowAmount(table));
-        System.out.println(mySQLAccess.getCellIndex(table, "Red", 20));
+        System.out.println(mySQLAccess.doesColumnExist(table, "Red"));
 
         LinkedList testLinkedList = new LinkedList<>();
         testLinkedList.add(200); testLinkedList.add(420420); testLinkedList.add(123456789);
