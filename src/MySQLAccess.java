@@ -45,7 +45,6 @@ public class MySQLAccess {
      * Gets the content of the cell containing index in column
      * @param table Which table to use
      * @param column Which column to use
-     * @param index Which index in the column to search for
      * @return The contents of the cell at index in column
      * @throws SQLException if a MySQl error occurs
      */
